@@ -1,0 +1,28 @@
+{
+  "name": "hello-nextjs-styled-comp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "styled-components": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohil8chhabriya/hello-nextjs-styled-comp.git"
+  },
+  "author": "sohil chhabriya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohil8chhabriya/hello-nextjs-styled-comp/issues"
+  },
+  "homepage": "https://github.com/sohil8chhabriya/hello-nextjs-styled-comp#readme"
+}
